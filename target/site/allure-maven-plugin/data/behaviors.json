@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Rozetka UI Tests",
+    "children" : [ {
+      "name" : "Shopping Tests",
+      "children" : [ {
+        "name" : "Search for the most expensive item in a given category, with a given brand and add it to the cart",
+        "children" : [ {
+          "name" : "Test the most expensive product title and price for 'Ноутбуки' category and 'HP' brand",
+          "uid" : "872d8df9678b2909",
+          "parentUid" : "4b7270d9380881bb5955cd25d3299db8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1631973555148,
+            "stop" : 1631973597792,
+            "duration" : 42644
+          },
+          "flaky" : false,
+          "parameters" : [ "model.RozetkaFilter@40b6a99f" ]
+        } ],
+        "uid" : "4b7270d9380881bb5955cd25d3299db8"
+      } ],
+      "uid" : "bd6c008d3c480f3f805ce8825a32dfd3"
+    } ],
+    "uid" : "448d4ad27c1ae2dde99f7e2c314cc1c4"
+  } ]
+}

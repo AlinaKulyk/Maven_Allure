@@ -1,0 +1,2 @@
+"Status","Name","Duration in ms","Description"
+"passed","labTest.SumVerifyTest.givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound","42644","After searching for the most expensive product in 'Ноутбуки' category, with 'HP' brand and adding it to the shopping cart, the name of the product and its price must match the name and price indicated on the product card"

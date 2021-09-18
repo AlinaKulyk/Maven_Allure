@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-I0JKDSF",
+    "children" : [ {
+      "name" : "8616@DESKTOP-I0JKDSF.TestNG-PoolService-0(18)",
+      "children" : [ {
+        "name" : "Test the most expensive product title and price for 'Ноутбуки' category and 'HP' brand",
+        "uid" : "872d8df9678b2909",
+        "parentUid" : "9cb4cc84b671798235ca66e06c5a9975",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631973555148,
+          "stop" : 1631973597792,
+          "duration" : 42644
+        },
+        "flaky" : false,
+        "parameters" : [ "model.RozetkaFilter@40b6a99f" ]
+      } ],
+      "uid" : "9cb4cc84b671798235ca66e06c5a9975"
+    } ],
+    "uid" : "871bbe0d557362a5bc459c77dfe2a083"
+  } ]
+}

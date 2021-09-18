@@ -1,0 +1,2 @@
+2021-09-18 16:59:57,789 INFO t.AllureTestListener [TestNG-PoolService-0] Test givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound passed
+2021-09-18 16:59:58,508 INFO t.AllureTestListener [main] =========== Surefire test Finished ===============

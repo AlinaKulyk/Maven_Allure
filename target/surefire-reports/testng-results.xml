@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-18T13:59:10Z" name="Surefire suite" finished-at="2021-09-18T13:59:58Z" duration-ms="47537">
+    <groups>
+    </groups>
+    <test started-at="2021-09-18T13:59:10Z" name="Surefire test" finished-at="2021-09-18T13:59:58Z" duration-ms="47537">
+      <class name="labTest.SumVerifyTest">
+        <test-method is-config="true" signature="appSetup()[pri:0, instance:labTest.SumVerifyTest@118dcbbd]" started-at="2021-09-18T13:59:11Z" name="appSetup" finished-at="2021-09-18T13:59:11Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appSetup -->
+        <test-method is-config="true" signature="testsSetUp()[pri:0, instance:labTest.SumVerifyTest@118dcbbd]" started-at="2021-09-18T13:59:11Z" name="testsSetUp" finished-at="2021-09-18T13:59:14Z" duration-ms="3570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsSetUp -->
+        <test-method signature="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound(model.RozetkaFilter)[pri:0, instance:labTest.SumVerifyTest@118dcbbd]" started-at="2021-09-18T13:59:15Z" name="givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound" description="After searching for the most expensive product in a given category, with a given brand and adding it to the shopping cart, the name of the product and its price must match the name and price indicated on the product card" data-provider="products" finished-at="2021-09-18T13:59:57Z" duration-ms="42706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[model.RozetkaFilter@40b6a99f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- givenFilter_whenTheMostExpensiveProductAddedToCart_thenTotalPriceLessThanBound -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:labTest.SumVerifyTest@118dcbbd]" started-at="2021-09-18T13:59:57Z" name="tearDown" finished-at="2021-09-18T13:59:58Z" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- labTest.SumVerifyTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

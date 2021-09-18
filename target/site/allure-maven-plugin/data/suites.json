@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "labTest.SumVerifyTest",
+        "children" : [ {
+          "name" : "Test the most expensive product title and price for 'Ноутбуки' category and 'HP' brand",
+          "uid" : "872d8df9678b2909",
+          "parentUid" : "da81f9f99440e3eeaf984c543eb7f171",
+          "status" : "passed",
+          "time" : {
+            "start" : 1631973555148,
+            "stop" : 1631973597792,
+            "duration" : 42644
+          },
+          "flaky" : false,
+          "parameters" : [ "model.RozetkaFilter@40b6a99f" ]
+        } ],
+        "uid" : "da81f9f99440e3eeaf984c543eb7f171"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

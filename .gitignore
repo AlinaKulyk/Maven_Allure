@@ -36,8 +36,8 @@ out/
 ### VS Code ###
 .vscode/
 
-### Custom ###
-*.local
-target/
-.allure
-allure-results
+#### Custom ###
+#*.local
+#target/
+#.allure
+#allure-results
